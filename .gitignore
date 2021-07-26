@@ -1,3 +1,4 @@
 *.class
 *.sln
 bin
+.vscode
