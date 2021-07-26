@@ -7,7 +7,10 @@ namespace ProjetoFatorial
         static void Main(string[] args)
         {
             var fatorial = new Fatorial();
-            var resultado = fatorial.CalcularFatorial(5);
+            var resultado = fatorial.CalculoIterativo(5);
+            Console.WriteLine(resultado);
+
+            resultado = fatorial.CalculoRecursivo(5);
             Console.WriteLine(resultado);
         }
     }

@@ -2,7 +2,7 @@ namespace ProjetoFatorial
 {
     public class Fatorial
     {
-        public int CalcularFatorial(int numero) {
+        public int CalculoIterativo(int numero) {
             int resultado = 1;
 
             if(numero <= 0) {
@@ -14,6 +14,14 @@ namespace ProjetoFatorial
             }
 
             return resultado;
+        }
+    
+        public int CalculoRecursivo(int numero){
+            if (numero <= 0){
+                return 1;
+            }
+
+            return numero * CalculoRecursivo(numero - 1);
         }
     }
 }
