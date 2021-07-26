@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\git\\ProjetoFatorial\\ProjetoFatorial\\ProjetoFatorial.csproj": {}
+    "F:\\git\\ProjetoFatorial\\projetofatorial\\ProjetoFatorial.csproj": {}
   },
   "projects": {
-    "F:\\git\\ProjetoFatorial\\ProjetoFatorial\\ProjetoFatorial.csproj": {
+    "F:\\git\\ProjetoFatorial\\projetofatorial\\ProjetoFatorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\git\\ProjetoFatorial\\ProjetoFatorial\\ProjetoFatorial.csproj",
+        "projectUniqueName": "F:\\git\\ProjetoFatorial\\projetofatorial\\ProjetoFatorial.csproj",
         "projectName": "ProjetoFatorial",
-        "projectPath": "F:\\git\\ProjetoFatorial\\ProjetoFatorial\\ProjetoFatorial.csproj",
+        "projectPath": "F:\\git\\ProjetoFatorial\\projetofatorial\\ProjetoFatorial.csproj",
         "packagesPath": "C:\\Users\\rafael.silva.ACIT0\\.nuget\\packages\\",
-        "outputPath": "F:\\git\\ProjetoFatorial\\ProjetoFatorial\\obj\\",
+        "outputPath": "F:\\git\\ProjetoFatorial\\projetofatorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,7 +6,9 @@ namespace ProjetoFatorial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var fatorial = new Fatorial();
+            var resultado = fatorial.CalcularFatorial(5);
+            Console.WriteLine(resultado);
         }
     }
 }

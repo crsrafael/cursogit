@@ -1,0 +1,16 @@
+F:\git\ProjetoFatorial\ProjetoFatorial\bin\Debug\net5.0\ProjetoFatorial.exe
+F:\git\ProjetoFatorial\ProjetoFatorial\bin\Debug\net5.0\ProjetoFatorial.deps.json
+F:\git\ProjetoFatorial\ProjetoFatorial\bin\Debug\net5.0\ProjetoFatorial.runtimeconfig.json
+F:\git\ProjetoFatorial\ProjetoFatorial\bin\Debug\net5.0\ProjetoFatorial.runtimeconfig.dev.json
+F:\git\ProjetoFatorial\ProjetoFatorial\bin\Debug\net5.0\ProjetoFatorial.dll
+F:\git\ProjetoFatorial\ProjetoFatorial\bin\Debug\net5.0\ref\ProjetoFatorial.dll
+F:\git\ProjetoFatorial\ProjetoFatorial\bin\Debug\net5.0\ProjetoFatorial.pdb
+F:\git\ProjetoFatorial\ProjetoFatorial\obj\Debug\net5.0\ProjetoFatorial.csproj.AssemblyReference.cache
+F:\git\ProjetoFatorial\ProjetoFatorial\obj\Debug\net5.0\ProjetoFatorial.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\ProjetoFatorial\ProjetoFatorial\obj\Debug\net5.0\ProjetoFatorial.AssemblyInfoInputs.cache
+F:\git\ProjetoFatorial\ProjetoFatorial\obj\Debug\net5.0\ProjetoFatorial.AssemblyInfo.cs
+F:\git\ProjetoFatorial\ProjetoFatorial\obj\Debug\net5.0\ProjetoFatorial.csproj.CoreCompileInputs.cache
+F:\git\ProjetoFatorial\ProjetoFatorial\obj\Debug\net5.0\ProjetoFatorial.dll
+F:\git\ProjetoFatorial\ProjetoFatorial\obj\Debug\net5.0\ref\ProjetoFatorial.dll
+F:\git\ProjetoFatorial\ProjetoFatorial\obj\Debug\net5.0\ProjetoFatorial.pdb
+F:\git\ProjetoFatorial\ProjetoFatorial\obj\Debug\net5.0\ProjetoFatorial.genruntimeconfig.cache
