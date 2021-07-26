@@ -2,4 +2,4 @@
 *.sln
 bin
 .vscode
-ProjetoFatorial/obj/
+ProjetoFatorial/obj/Debug
